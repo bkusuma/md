@@ -1,0 +1,14 @@
+# The title of your site (appears in the browser tab)
+title: md website
+
+# A short description for search engines
+description: A clean, simple site hosted directly from a Markdown README.
+
+# Pick a theme! Popular options: 
+# jekyll-theme-minimal, jekyll-theme-cayman, jekyll-theme-architect
+theme: jekyll-theme-architect
+
+# Optional: if you want to use a remote theme from GitHub 
+# (note: you will need to add a # above next to theme 
+# if you decide to remove the # below to use a remote theme)
+# remote_theme: pages-themes/minimal@v0.2.0

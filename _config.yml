@@ -4,9 +4,14 @@ title: md website
 # A short description for search engines
 description: A clean, simple site hosted directly from a Markdown README.
 
-# Pick a theme! Popular options: 
-# jekyll-theme-minimal, jekyll-theme-cayman, jekyll-theme-architect
-theme: jekyll-theme-architect
+# Pick a theme! GitHub Page-supported themes: 
+# jekyll-theme-architect  # Professional, structured look with high-contrast UI elements.
+# jekyll-theme-cayman	    # Modern, bright headers with a "start-up" feel.
+# jekyll-theme-hacker     # Retro, terminal-style look for developers.
+# jekyll-theme-merlot	    # A clean, classic layout with a sidebar.
+# jekyll-theme-minimal    # Clean, distraction-free layout for simple documentation.
+# jekyll-theme-slate      # A sleek, dark-mode focused aesthetic.
+theme: jekyll-theme-slate  
 
 # Optional: if you want to use a remote theme from GitHub 
 # (note: you will need to add a # above next to theme 
